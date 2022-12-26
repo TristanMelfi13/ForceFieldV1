@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+//const int DimensionsX = 100;
+//const int DimensionsY = 100;
+//const int DimensionsZ = 100;
+
+//V(Q) = 1/2kQ^2
+
+//Task #1 for MelfiFF Dev... Learn Harmonic oscillation mathematics... They seem to be at the basis of MM models
+//Because apparently molecules move like that and that's so perfect because this math seems pretty well-defined
+//Do coding train... Use P5 because visual understanding... Yea! Work in 1D space for now understand the math, then include real units good luck :) you got this babe
+
+
+int main() {
+    int Positions [2][3] = {{-31, 32, -34},
+                            {40, -2, -15}};
+    return 0;
+}
